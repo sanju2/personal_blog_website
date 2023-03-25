@@ -1,6 +1,8 @@
 # personal_blog_website
 Personal Blog Website Hosted on AWS
 
+![Diagram](Personal-Blog-Website.jpeg)
+
 [Personal Website Link](https://devopswithlasantha.tech/).
 
 [Blog Post Link](https://dev.to/lasanthasilva/my-personal-website-project-deployed-using-aws-services-h4b-temp-slug-631906/edit).
