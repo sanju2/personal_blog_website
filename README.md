@@ -5,7 +5,7 @@ Personal Blog Website Hosted on AWS
 
 [Personal Website Link](https://devopswithlasantha.tech/).
 
-[Blog Post Link](https://dev.to/lasanthasilva/my-personal-website-project-deployed-using-aws-services-h4b-temp-slug-631906/edit).
+[Blog Post Link](https://dev.to/aws-builders/how-i-built-my-personal-blog-site-using-aws-services-51l7).
 
 ### Used to follow the steps.
 
