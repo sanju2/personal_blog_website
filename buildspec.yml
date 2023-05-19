@@ -12,6 +12,6 @@ phases:
       - echo "Updating lambda Function..."
       - aws --version
       - aws configure set region us-east-2
-      - aws s3 cp s3://{{bucket-name}} ./
-      - aws lambda update-function-code --function-name {{function_name}} --zip-file fileb://build.zip
+      - aws s3 cp s3://devopswithlasantha.tech ./assets ./images index.html
+      - aws lambda update-function-code --function-name VisitorCount --zip-file fileb://build.zip
       - echo "DONE!!"
