@@ -1,9 +1,9 @@
 # personal_blog_website
 Personal Blog Website Hosted on AWS
 
-![Diagram](Personal-Blog-Website.jpeg)
+![Diagram](Architectural%20Diagram.png)
 
-[Personal Website Link](https://devopswithlasantha.tech/).
+[Personal Website Link](https://devopswithlasantha.tech).
 
 [Blog Post Link](https://dev.to/aws-builders/how-i-built-my-personal-blog-site-using-aws-services-51l7).
 
@@ -29,6 +29,8 @@ Personal Blog Website Hosted on AWS
 
 - Step 10 : Create a git repository and push code.
 
-- Step 11 : Create CodeBuild Build project for deploying S3 static website files and Lambda function codes.
+- Step 11 : Create GitHub Actions for deploying S3 static website files and Lambda function codes.
 
-- Step 12 : Finally, create an AWS code pipeline and deploy your latest release.
+- Step 12 : Finally, Push the latest release to Github.
+
+### Thank You! :shipit:
