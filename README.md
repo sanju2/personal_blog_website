@@ -9,7 +9,7 @@ Personal Blog Website Hosted on AWS
 
 ### Used to follow the steps.
 
- - Step 1 : Build my blog site in HTML with CSS.
+- Step 1 : Build my blog site in HTML with CSS.
 
 - Step 2 : Created an S3 bucket to store portfolio files.
 
