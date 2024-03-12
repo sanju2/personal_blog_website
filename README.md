@@ -3,7 +3,7 @@ Personal Blog Website Hosted on AWS
 
 ![Diagram](Architectural%20Diagram.png)
 
-[Personal Website Link](https://devopswithlasantha.tech).
+[Personal Website Link](https://lasanthasilva.tech).
 
 [Blog Post Link](https://dev.to/aws-builders/how-i-built-my-personal-blog-site-using-aws-services-51l7).
 
