@@ -17,5 +17,4 @@ def lambda_handler(event, context):
         ExpressionAttributeValues={':c': new_count},
         ReturnValues='UPDATED_NEW'
         )
-## return
     return {'Count':new_count}
