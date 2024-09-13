@@ -32,5 +32,3 @@ Personal Blog Website Hosted on AWS
 - Step 11 : Create GitHub Actions for deploying S3 static website files and Lambda function codes.
 
 - Step 12 : Finally, Push the latest release to Github.
-
-### Thank You! :shipit:
